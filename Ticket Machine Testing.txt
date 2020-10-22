@@ -1,0 +1,70 @@
+TicketMachine ticketMa1 = new TicketMachine();
+ticketMa1.addAmersham();
+ticketMa1.getBalance()
+    returned int 0
+ticketMa1.balanceUpdater(200);
+ticketMa1.getBalance()
+    returned int 0
+TicketMachine ticketMa1 = new TicketMachine();
+ticketMa1.balanceUpdater(200);
+ticketMa1.insertCoins(20);
+ticketMa1.getBalance()
+    returned int 0
+TicketMachine ticketMa1 = new TicketMachine();
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 0
+ticketMa1.addAmersham();
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 0
+ticketMa1.displayBalance();
+Current Balance: 0
+ticketMa1.refundBalance()
+    returned int 0
+ticketMa1.printTicket();
+You must insert at least: 300 more pence.
+ticketMa1.insertCoins(300);
+300This is not a valid coin
+ticketMa1.balanceUpdater(200);
+ticketMa1.displayBalance();
+Current Balance: 0
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 0
+TicketMachine ticketMa1 = new TicketMachine();
+ticketMa1.addAmersham();
+ticketMa1.getPrice()
+    returned int 300
+ticketMa1.insertCoins(300);
+300 This is not a valid coin
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 0
+ticketMa1.refundBalance()
+    returned int 0
+ticketMa1.addAylesbury();
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 0
+TicketMachine ticketMa1 = new TicketMachine();
+TicketMachine ticketMa1 = new TicketMachine();
+ticketMa1.addAylesbury();
+ticketMa1.getPrice()
+    returned int 220
+ticketMa1.insertCoins(200);
+ticketMa1.getBalance()
+    returned int 200
+ticketMa1.insertCoins(20);
+ticketMa1.insertCoins(100);
+ticketMa1.getBalance()
+    returned int 320
+ticketMa1.printTicket();
+##################
+# Your New
+# Ticket
+# 220 pence.
+##################
+
+ticketMa1.refundBalance()
+    returned int 100
