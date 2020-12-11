@@ -1,0 +1,103 @@
+Student student1 = new Student("Jonathan Joestar", "04468");
+Course course1 = new Course("G400", "Computing");
+student1.enrolOnCourse(course1);
+Module module1 = new Module("Professional Practice", "CO454");
+module1.print();
+Module: CO454 Professional Practice
+ is not completed yet!
+module1.getMark()
+    returned int -1
+module1.awardMark(78);
+module1.isComplete()
+    returned boolean true
+module1.getMark()
+    returned int 78
+module1.print();
+Module: CO454 Professional Practice
+ Mark = 78
+Module module2 = new Module("CO452", "Programming Concepts");
+module2.print();
+Module: Programming Concepts CO452
+ is not completed yet!
+module2.isComplete()
+    returned boolean false
+module2.getMark()
+    returned int -1
+module2.awardMark(65);
+module2.getMark()
+    returned int 65
+module2.isComplete()
+    returned boolean true
+module2.print();
+Module: Programming Concepts CO452
+ Mark = 65
+Module module3 = new Module("Web Development", "CO456");
+module3.print();
+Module: CO456 Web Development
+ is not completed yet!
+module3.isComplete()
+    returned boolean false
+module3.getMark()
+    returned int -1
+module3.awardMark(87);
+module3.getMark()
+    returned int 87
+module3.isComplete()
+    returned boolean true
+module3.print();
+Module: CO456 Web Development
+ Mark = 87
+Module module4 = new Module("Computer Systems Architecture", "CO450");
+module4.print();
+Module: CO450 Computer Systems Architecture
+ is not completed yet!
+module4.isComplete()
+    returned boolean false
+module4.getMark()
+    returned int -1
+module4.awardMark(93);
+module4.getMark()
+    returned int 93
+module4.isComplete()
+    returned boolean true
+module4.print();
+Module: CO450 Computer Systems Architecture
+ Mark = 93
+course1.addModule(1, module1);
+course1.printCourseDetails();
+Course Computing - G400
+
+Module: CO454 Professional Practice
+ Mark = 78
+course1.addModule(2, module2);
+course1.printCourseDetails();
+Course Computing - G400
+
+Module: CO454 Professional Practice
+ Mark = 78
+Module: Programming Concepts CO452
+ Mark = 65
+course1.addModule(3, module3);
+course1.printCourseDetails();
+Course Computing - G400
+
+Module: CO454 Professional Practice
+ Mark = 78
+Module: Programming Concepts CO452
+ Mark = 65
+Module: CO456 Web Development
+ Mark = 87
+course1.addModule(4, module4);
+course1.printCourseDetails();
+Course Computing - G400
+
+Module: CO454 Professional Practice
+ Mark = 78
+Module: Programming Concepts CO452
+ Mark = 65
+Module: CO456 Web Development
+ Mark = 87
+Module: CO450 Computer Systems Architecture
+ Mark = 93
+course1.printTheGrade();
+Your final mark is 80 your final grade is A
