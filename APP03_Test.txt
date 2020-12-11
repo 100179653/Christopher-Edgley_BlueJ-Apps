@@ -1,0 +1,29 @@
+Student student1 = new Student("Chris Edgley", "100179653");
+Course course1 = new Course("Computing", "CO101");
+student1.enrolOnCourse(course1);
+Module module1 = new Module("CSA", "CO450");
+Module module2 = new Module("Programming", "CO452");
+Module module3 = new Module("Web", "CO456");
+Module module4 = new Module("Professional Practice", "CO454");
+course1.addModule(1, module1);
+course1.addModule(2, module2);
+course1.addModule(3, module3);
+course1.addModule(4, module4);
+module1.isComplete()
+    returned boolean false
+module1.awardMark(78);
+module1.isComplete()
+    returned boolean true
+module2.awardMark(87);
+module3.awardMark(65);
+module4.awardMark(93);
+module4.getMark()
+    returned int 93
+module3.getMark()
+    returned int 65
+module2.getMark()
+    returned int 87
+module1.getMark()
+    returned int 78
+course1.printGrade();
+Your final  mark is 0 your final grade is A
