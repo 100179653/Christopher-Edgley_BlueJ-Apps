@@ -1,70 +1,83 @@
 TicketMachine ticketMa1 = new TicketMachine();
+
+ticketMa1.printAllDestinations();
+ Tickets to Aylesbury are 220 pence. 
+ Tickets to Amersham are 300 pence.
+ Tickets to High Wycombe are 330 pence.
+ 
 ticketMa1.addAmersham();
-ticketMa1.getBalance()
-    returned int 0
-ticketMa1.balanceUpdater(200);
-ticketMa1.getBalance()
-    returned int 0
-TicketMachine ticketMa1 = new TicketMachine();
-ticketMa1.balanceUpdater(200);
-ticketMa1.insertCoins(20);
-ticketMa1.getBalance()
-    returned int 0
-TicketMachine ticketMa1 = new TicketMachine();
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 0
-ticketMa1.addAmersham();
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 0
-ticketMa1.displayBalance();
-Current Balance: 0
-ticketMa1.refundBalance()
-    returned int 0
-ticketMa1.printTicket();
-You must insert at least: 300 more pence.
-ticketMa1.insertCoins(300);
-300This is not a valid coin
-ticketMa1.balanceUpdater(200);
-ticketMa1.displayBalance();
-Current Balance: 0
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 0
-TicketMachine ticketMa1 = new TicketMachine();
-ticketMa1.addAmersham();
+You have selected the Amersham Ticket
+A cost of £3.00
 ticketMa1.getPrice()
     returned int 300
-ticketMa1.insertCoins(300);
-300 This is not a valid coin
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 0
-ticketMa1.refundBalance()
-    returned int 0
-ticketMa1.addAylesbury();
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 0
-TicketMachine ticketMa1 = new TicketMachine();
-TicketMachine ticketMa1 = new TicketMachine();
-ticketMa1.addAylesbury();
-ticketMa1.getPrice()
-    returned int 220
-ticketMa1.insertCoins(200);
-ticketMa1.getBalance()
-    returned int 200
+ticketMa1.displayBalance();
+Current Balance: 0
+ticketMa1.insertCoins(10);
+You have inserted 10 pence.
+your new balance is 10 pence.
 ticketMa1.insertCoins(20);
+You have inserted 20 pence.
+your new balance is 30 pence.
+ticketMa1.insertCoins(30);
+30 This is not a valid coin
 ticketMa1.insertCoins(100);
-ticketMa1.getBalance()
-    returned int 320
+You have inserted 1 pound.
+your new balance is 130 pence.
+ticketMa1.insertCoins(200);
+You have inserted 2 pounds.
+your new balance is 330 pence.
 ticketMa1.printTicket();
 ##################
-# Your New
-# Ticket
-# 220 pence.
+Your ticket to
+Amersham
+On Date: 11/12/2020
+Cost: 300 pence.
 ##################
 
 ticketMa1.refundBalance()
-    returned int 100
+    returned int 30
+ticketMa1.displayBalance();
+Current Balance: 0
+ticketMa1.addAylesbury();
+You have selected the Aylesbury Ticket
+A cost of £2.20
+ticketMa1.insertCoins(200);
+You have inserted 2 pounds.
+your new balance is 200 pence.
+ticketMa1.insertCoins(20);
+You have inserted 20 pence.
+your new balance is 220 pence.
+ticketMa1.printTicket();
+##################
+Your ticket to
+Aylesbury
+On Date: 11/12/2020
+Cost: 220 pence.
+##################
+
+ticketMa1.addWycombe();
+You have selected the High Wycombe Ticket.
+A cost of £3.30
+ticketMa1.printTicket();
+You must insert at least: 330 more pence.
+ticketMa1.insertCoins(200);
+You have inserted 2 pounds.
+your new balance is 200 pence.
+ticketMa1.insertCoins(100);
+You have inserted 1 pound.
+your new balance is 300 pence.
+ticketMa1.insertCoins(20);
+You have inserted 20 pence.
+your new balance is 320 pence.
+ticketMa1.insertCoins(10);
+You have inserted 10 pence.
+your new balance is 330 pence.
+ticketMa1.printTicket();
+
+##################
+Your ticket to
+High Wycombe
+On Date: 11/12/2020
+Cost: 330 pence.
+##################
+ 
