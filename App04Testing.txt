@@ -1,0 +1,199 @@
+
+900: Apple iPhone 11 stock level: 0
+    ** Re-Stocked by 3 ***
+900: Apple iPhone 11 stock level: 3
+
+
+901: Samsung Galaxy S21 stock level: 0
+    ** Re-Stocked by 6 ***
+901: Samsung Galaxy S21 stock level: 6
+
+
+902: Xiaomi Poco X3 stock level: 0
+    ** Re-Stocked by 2 ***
+902: Xiaomi Poco X3 stock level: 2
+
+
+903: Huawei P30 Lite stock level: 0
+    ** Re-Stocked by 4 ***
+903: Huawei P30 Lite stock level: 4
+
+
+904: Google Pixel 5 5G stock level: 0
+    ** Re-Stocked by 2 ***
+904: Google Pixel 5 5G stock level: 2
+
+
+905: Apple iPhone SE stock level: 0
+    ** Re-Stocked by 8 ***
+905: Apple iPhone SE stock level: 8
+
+
+906: Huawei Mate 30 Pro stock level: 0
+    ** Re-Stocked by 2 ***
+906: Huawei Mate 30 Pro stock level: 2
+
+
+907: Huawei Mate Xs 5G stock level: 0
+    ** Re-Stocked by 3 ***
+907: Huawei Mate Xs 5G stock level: 3
+
+
+908: Sony Xperia 5 stock level: 0
+    ** Re-Stocked by 2 ***
+908: Sony Xperia 5 stock level: 2
+
+
+*******************************
+  Phone Management System
+     by Christopher Edgley 
+*******************************
+
+900: Apple iPhone 11 stock level: 3
+901: Samsung Galaxy S21 stock level: 6
+902: Xiaomi Poco X3 stock level: 2
+903: Huawei P30 Lite stock level: 4
+904: Google Pixel 5 5G stock level: 2
+905: Apple iPhone SE stock level: 8
+906: Huawei Mate 30 Pro stock level: 2
+907: Huawei Mate Xs 5G stock level: 3
+908: Sony Xperia 5 stock level: 2
+909: Xiamoi Mi 10 Pro stock level: 0
+
+
+*******************************
+  Phone Management System
+     by Christopher Edgley 
+*******************************
+
+900: Apple iPhone 11 stock level: 3
+901: Samsung Galaxy S21 stock level: 6
+902: Xiaomi Poco X3 stock level: 2
+903: Huawei P30 Lite stock level: 4
+904: Google Pixel 5 5G stock level: 2
+905: Apple iPhone SE stock level: 8
+906: Huawei Mate 30 Pro stock level: 2
+907: Huawei Mate Xs 5G stock level: 3
+908: Sony Xperia 5 stock level: 2
+909: Xiamoi Mi 10 Pro stock level: 0
+
+Selling item: Order Quantity = 4
+900: Apple iPhone 11 stock level: 3
+  3 items sold!
+
+Selling item: Order Quantity = 6
+901: Samsung Galaxy S21 stock level: 6
+  6 items sold!
+
+Selling item: Order Quantity = 5
+902: Xiaomi Poco X3 stock level: 2
+  2 items sold!
+
+Selling item: Order Quantity = 1
+903: Huawei P30 Lite stock level: 4
+  1 items sold!
+
+Selling item: Order Quantity = 5
+904: Google Pixel 5 5G stock level: 2
+  2 items sold!
+
+Selling item: Order Quantity = 5
+905: Apple iPhone SE stock level: 8
+  5 items sold!
+
+Selling item: Order Quantity = 2
+906: Huawei Mate 30 Pro stock level: 2
+  2 items sold!
+
+Selling item: Order Quantity = 1
+907: Huawei Mate Xs 5G stock level: 3
+  1 items sold!
+
+Selling item: Order Quantity = 3
+908: Sony Xperia 5 stock level: 2
+  2 items sold!
+
+
+*******************************
+  Phone Management System
+     by Christopher Edgley 
+*******************************
+
+900: Apple iPhone 11 stock level: 0
+901: Samsung Galaxy S21 stock level: 0
+902: Xiaomi Poco X3 stock level: 0
+903: Huawei P30 Lite stock level: 3
+904: Google Pixel 5 5G stock level: 0
+905: Apple iPhone SE stock level: 3
+906: Huawei Mate 30 Pro stock level: 0
+907: Huawei Mate Xs 5G stock level: 2
+908: Sony Xperia 5 stock level: 0
+909: Xiamoi Mi 10 Pro stock level: 0
+
+
+*******************************
+  Phone Management System
+     by Christopher Edgley 
+*******************************
+
+900: Apple iPhone 11 stock level: 0
+901: Samsung Galaxy S21 stock level: 0
+902: Xiaomi Poco X3 stock level: 0
+903: Huawei P30 Lite stock level: 3
+904: Google Pixel 5 5G stock level: 0
+905: Apple iPhone SE stock level: 3
+906: Huawei Mate 30 Pro stock level: 0
+907: Huawei Mate Xs 5G stock level: 2
+908: Sony Xperia 5 stock level: 0
+909: Xiamoi Mi 10 Pro stock level: 0
+
+
+ item ID 102 REMOVED! 
+
+908: Sony Xperia 5 stock level: 0
+***RENAMED***
+908: Xiaomi Mi 10 Pro stock level: 0
+ Printing all low stock items
+
+900: Apple iPhone 11 stock level: 0
+901: Samsung Galaxy S21 stock level: 0
+902: Xiaomi Poco X3 stock level: 0
+903: Huawei P30 Lite stock level: 3
+904: Google Pixel 5 5G stock level: 0
+905: Apple iPhone SE stock level: 3
+906: Huawei Mate 30 Pro stock level: 0
+907: Huawei Mate Xs 5G stock level: 2
+908: Xiaomi Mi 10 Pro stock level: 0
+
+There were 9 stock items with less than 3 items
+
+
+Re-Stocking to a minimum level of 3
+
+Attempting to restock Huawei P30 Lite with this many: 3
+Attempting to restock Apple iPhone SE with this many: 3
+Attempting to restock Huawei Mate Xs 5G with this many: 2
+
+Searching for Xiaomi
+
+902: Xiaomi Poco X3 stock level: 3
+908: Xiaomi Mi 10 Pro stock level: 3
+
+There are 2 items containing Xiaomi in their name!
+
+
+*******************************
+  Phone Management System
+     by Christopher Edgley 
+*******************************
+
+900: Apple iPhone 11 stock level: 3
+901: Samsung Galaxy S21 stock level: 3
+902: Xiaomi Poco X3 stock level: 3
+903: Huawei P30 Lite stock level: 3
+904: Google Pixel 5 5G stock level: 3
+905: Apple iPhone SE stock level: 3
+906: Huawei Mate 30 Pro stock level: 3
+907: Huawei Mate Xs 5G stock level: 2
+908: Xiaomi Mi 10 Pro stock level: 3
+
