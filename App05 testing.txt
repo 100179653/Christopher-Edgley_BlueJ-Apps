@@ -1,0 +1,512 @@
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 211
+Currently adding the new product
+Please enter the name of the new product:
+> Xiaomi Pocophone F1
+
+You have added the item: 211: Xiaomi Pocophone F1 Current stock level: 0
+ 
+with the ID of: 211
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 212
+Currently adding the new product
+Please enter the name of the new product:
+> Google Pixel a
+
+You have added the item: 212: Google Pixel a Current stock level: 0
+ 
+with the ID of: 212
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 213
+Currently adding the new product
+Please enter the name of the new product:
+> Samsung Galaxy A51
+
+You have added the item: 213: Samsung Galaxy A51 Current stock level: 0
+ 
+with the ID of: 213
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 214
+Currently adding the new product
+Please enter the name of the new product:
+> Huawei Mate P30 Pro
+
+You have added the item: 214: Huawei Mate P30 Pro Current stock level: 0
+ 
+with the ID of: 214
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 215
+Currently adding the new product
+Please enter the name of the new product:
+> Nokia One
+
+You have added the item: 215: Nokia One Current stock level: 0
+ 
+with the ID of: 215
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 211
+This item already exists in the ID table
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 1
+Add new product
+
+Please enter the ID of the new product
+> 216
+Currently adding the new product
+Please enter the name of the new product:
+> 
+This input line is empty!
+
+You have added the item: 216:  Current stock level: 0
+ 
+with the ID of: 216
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 2
+ Remove a product
+
+Please enter the ID of the product to remove
+> 216
+This produce has been removed
+--- Product ID 216 removed
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 2
+ Remove a product
+
+Please enter the ID of the product to remove
+> 220
+I can not find this item! maybe it doesn't exist currently
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 8
+
+------------------------------------
+---      The Edgley Stock List     ---
+---     Currently Printing List    ---
+------------------------------------
+
+201: Samsung Galaxy S10 5G Current stock level: 0
+202: Samsung Galaxy NOTE 20 Current stock level: 0
+203: Samsung Galaxy S20 Current stock level: 0
+204: Oppo Find X Current stock level: 0
+205: Gogle Pixel 5 Current stock level: 0
+206: Xiaomi Mi 10 Lite Current stock level: 0
+207: Poco F2 Pro Current stock level: 0
+208: Poco M3 Current stock level: 0
+209: Apple iPhone 11 Pro Max Current stock level: 0
+210: Apple iPhone SE Current stock level: 0
+211: Xiaomi Pocophone F1 Current stock level: 0
+212: Google Pixel a Current stock level: 0
+213: Samsung Galaxy A51 Current stock level: 0
+214: Huawei Mate P30 Pro Current stock level: 0
+215: Nokia One Current stock level: 0
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 4
+ Deliver products
+
+Please enter the ID of the product to deliver
+> 211
+Please enter the quantity of the product to deliver
+> 5
+
+Current stock for: 211: Xiaomi Pocophone F1 Current stock level: 0
+--- Re-Stocked by 5 ---
+New stock for:211: Xiaomi Pocophone F1 Current stock level: 5
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 4
+ Deliver products
+
+Please enter the ID of the product to deliver
+> 212
+Please enter the quantity of the product to deliver
+> -4
+Sorry you cannot deliver that amount
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 3
+ Sell products
+
+Please enter the ID of the product to sell
+> 211
+Please enter the qty of the product to sell
+> 2
+211: Xiaomi Pocophone F1 Current stock level: 5
+--- 2 products sold
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 3
+ Sell products
+
+Please enter the ID of the product to sell
+> 211
+Please enter the qty of the product to sell
+> 5
+211: Xiaomi Pocophone F1 Current stock level: 3
+--- 3 products sold
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 4
+ Deliver products
+
+Please enter the ID of the product to deliver
+> 211
+Please enter the quantity of the product to deliver
+> 8
+
+Current stock for: 211: Xiaomi Pocophone F1 Current stock level: 0
+--- Re-Stocked by 8 ---
+New stock for:211: Xiaomi Pocophone F1 Current stock level: 8
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 3
+ Sell products
+
+Please enter the ID of the product to sell
+> 211
+Please enter the qty of the product to sell
+> -2
+Sorry you cannot sell that amount
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 6
+Search Products
+
+Please enter the name of the product you want to search: 
+> Xiaomi
+now displaying current products matching Xiaomi
+
+
+--------------------------------
+---Searching for Xiaomi---
+--------------------------------
+
+206: Xiaomi Mi 10 Lite Current stock level: 0
+211: Xiaomi Pocophone F1 Current stock level: 8
+
+2 products contain Xiaomi in their title
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 7
+ Printing low stock
+
+---------------------------------
+---  Currently low in stock   ---
+---------------------------------
+
+201: Samsung Galaxy S10 5G Current stock level: 0
+202: Samsung Galaxy NOTE 20 Current stock level: 0
+203: Samsung Galaxy S20 Current stock level: 0
+204: Oppo Find X Current stock level: 0
+205: Gogle Pixel 5 Current stock level: 0
+206: Xiaomi Mi 10 Lite Current stock level: 0
+207: Poco F2 Pro Current stock level: 0
+208: Poco M3 Current stock level: 0
+209: Apple iPhone 11 Pro Max Current stock level: 0
+210: Apple iPhone SE Current stock level: 0
+212: Google Pixel a Current stock level: 0
+213: Samsung Galaxy A51 Current stock level: 0
+214: Huawei Mate P30 Pro Current stock level: 0
+215: Nokia One Current stock level: 0
+
+There are currently 14 items with less than 1 in stock
+
+-------------------------------
+-    Stock Management App     -
+-      By Chris Edgley        -
+-------------------------------
+
+1.   Add a new product
+2.   Remove a product
+3.   Sell your Products
+4.   Deliver your Products
+5.   Restock your Products
+6.   Search for Products
+7.   Display items low in stock
+8.   Show all your current Products
+9.   Quit the application
+
+> 
